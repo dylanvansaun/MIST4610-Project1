@@ -4,11 +4,11 @@
 4610Fa24Group9
 
 ## Team Members:
-1. Dylan Van Saun https://github.com/dylanvansaun
-2. Zoey Cao https://github.com/zoeync
-3. Jennifer Tran https://github.com/j-tran1
-4. Margaret Cox https://github.com/mac14681
-5. Jayden Smith https://github.com/jaydenSmith4321
+1. Dylan Van Saun [@dylanvansaun](https://github.com/dylanvansaun)
+2. Zoey Cao [@zoeync](https://github.com/zoeync)
+3. Jennifer Tran [@j-tran1](https://github.com/j-tran1)
+4. Margaret Cox [@mac14681](https://github.com/mac14681)
+5. Jayden Smith [@jaydenSmith4321](https://github.com/jaydenSmith4321)
 
 ## Scenario Description:
 Our task is to model and build a relational database for the general workings of a university library system. The central entity in the model is the Library entity of the university library system, with contains each library that the university has. Each library operates in conjunction with a book supplier, and students can check out various copies of books (written by different authors) from the libraries while employees facilitate the transactions. The libraries also have partnerships with various volunteer organizations, and students can volunteer at the libraries with these organizations. Our goal is to accurately model these relationships, create sample data, and populate the entities and attributes with this sample data. We also aim to create functioning queries from this data to gain meaningful business and managerial insights into the university library system’s operations. 
