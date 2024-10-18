@@ -1,7 +1,7 @@
 # MIST4610-Project1
 
 ## Team Name
-Group 9
+4610Fa24Group9
 
 ## Team Members:
 1. Dylan Van Saun https://github.com/dylanvansaun
@@ -81,6 +81,9 @@ Query 9 shows the supplier’s names, their IDs, the total amount of books they 
 10. Query 10 lists all employees in the library system who have ‘Assistant’ in their job title with the library name and library ID.
 ![image](https://github.com/user-attachments/assets/17aa4e9a-704b-4108-ac72-c8c16ebbaaa7)
 Query 10 provides a clear overview of the distribution of assistants across all of the libraries by listing the employee’s name, their job position and the library name and ID of where they work. From a managerial perspective, It is important to see how many assistants are working at each library because it allows managers to evaluate whether resources are being allocated effectively. If some libraries have many assistants while others have only a few, it might indicate that there’s an uneven level of support for certain libraries. With this data, managers can make more informed decisions on staffing to ensure that all libraries have enough support to meet their needs efficiently.
+
+## Group Presentation:
+[Group Project 1_ Library System.pptx](https://github.com/user-attachments/files/17437640/Group.Project.1_.Library.System.pptx)
 
 ## Database Information:
 Name of the database: ns_4610Fa24Group9
